@@ -14,8 +14,9 @@ I'm passionate about transforming complex data into actionable insights and auto
 - **ParaSell, Inc.** – Managed high-value commercial real estate deals and streamlined CRM operations  
 
 ## 🚀 Notable Projects
-- **DEA Form 222 Automation**: AI-powered document parsing, SQL database storage, and Power App integration  
-- **Marketing & Sales Performance BI**: Company-wide dashboard for lead conversion and sales rep optimization  
+- **[NFL Score Predictor](https://github.com/monsieurfox/nfl)**: Score predictor using SKLearn and NFL API data to predict the final score of the Super Bowl.
+- **[AI Assistant Chatbot](https://github.com/monsieurfox/llm_chatbot)**: Chatbot created using ChatGPT's API, used as a car manual assistant.
+- **[Sentiment Analysis Neural Network](https://github.com/monsieurfox/sentiment_analysis)**: Neural network trained on 50,000 movie reviews to determine the sentiment of a review, positive or negative.
 
 ## 🏅 Achievements
 - 3× NCAA All-American (Long Jump) | PacWest Scholar Athlete of the Year  
